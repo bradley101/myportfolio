@@ -1,0 +1,48 @@
+
+.top-nav-bar {
+	text-align: center;
+	width: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+	background-color: white;
+}
+.col {
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-size: 1.5em;
+}
+.nav-bar-heading-name {
+	font-family: "Rage Italic";
+	color: brown;
+}
+.nav-bar-heading-nick  {
+	font-family: "Segoe Print";
+	color: orange;
+}
+.col1 {
+	background-color: #d9d9d9;
+}
+.col2 {
+	background-color: #ffc266;
+}
+.col3 {
+	background-color: #66cc66;
+}
+.col4 {
+	background-color: #ff6666;
+}
+.arow {
+	display: block;
+}
+.contents-container {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.mention-box {
+	
+}
+.mention-box-inner-content {
+	text-align: center;
+	margin:10px;
+}
